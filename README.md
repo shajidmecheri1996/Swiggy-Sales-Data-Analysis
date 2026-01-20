@@ -64,7 +64,7 @@ Each row represents a **single order**.
 * **Pandas** – Data manipulation and aggregation
 * **NumPy** – Numerical operations
 * **Plotly** – Interactive data visualizations
-* **Jupyter Notebook** – Analysis environment
+* **Google Colab** – Analysis environment
 
 ---
 
